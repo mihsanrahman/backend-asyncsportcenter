@@ -1,0 +1,27 @@
+/* app.css atau file CSS terpisah */
+body {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  h1 {
+    color: #333;
+    font-size: 30px;
+  }
+
+  p {
+    color: #666;
+    font-size: 18px;
+  }
+
+  a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
